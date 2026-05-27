@@ -1,0 +1,7 @@
+{
+  "mode": "radius",
+  "mikrotik": false,
+  "radius": true,
+  "payments_enabled": true,
+  "auto_paused": false
+}
